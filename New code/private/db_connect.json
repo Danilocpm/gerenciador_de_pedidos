@@ -1,0 +1,7 @@
+{
+    "user": "h8bwv02wcnd6xjlsmvb4",
+    "password": "pscale_pw_qbdptUr8LAT9xLMjnzSai3WP4VHyYbdwsbxpoqypzGS",
+    "host": "aws.connect.psdb.cloud",
+    "port": 3306,
+    "db_name": "test"
+}
